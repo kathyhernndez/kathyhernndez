@@ -1,15 +1,20 @@
+
 # Hi, I’m Katherine Hernandez 👋
 
 👀 I'm a Machine Learning Engineer of Venezuela. I like developing models for data mining, forecasting, [natural language processing](https://github.com/kathyhernndez/portfolio_say_my_brand/tree/main/chat_bot) and [computer vision](https://kathyhernndez.github.io/imageclassifier/).
 
 🌱 I work with Python, TensorFlow, Pytorch, Pandas, Numpy, ScikitLearn, Seaborn...
 
+
+[Machine Learnening](https://github.com/kathyhernndez/kathyhernndez/blob/main/machine%20learnig%20%2C%20Python%20%26%20data%20engineer.png)
+
+
 # Latest articles published
 
 - [INTRODUCTION TO ARTIFICIAL INTELLIGENCE](https://www.youtube.com/watch?v=apC_BHBoR6E&t=37s)
 - [PREDICTION MODELS](https://www.linkedin.com/pulse/modelos-de-predicci%C3%B3n-katherine-hernandez/)
 - [WHAT IS DOCKER](https://www.linkedin.com/pulse/qu%C3%A9-es-docker-y-para-que-sirve-katherine-hernandez/)
-- [cOMPONENTS OF DATA SCIENCE PROJECT](https://www.linkedin.com/pulse/componentes-para-un-proyecto-de-ciencia-datos-katherine-hernandez/)
+- [COMPONENTS OF DATA SCIENCE PROJECT](https://www.linkedin.com/pulse/componentes-para-un-proyecto-de-ciencia-datos-katherine-hernandez/)
 
 # Follow Me in
 - [Portfolio](https://kathyhernndez.github.io/kathyportfolio/)
