@@ -11,7 +11,7 @@
 
 # Latest articles published 👩‍💻
 
-- ![INTRODUCTION TO ARTIFICIAL INTELLIGENCE](https://www.youtube.com/watch?v=apC_BHBoR6E&t=37s)
+- [INTRODUCTION TO ARTIFICIAL INTELLIGENCE](https://www.youtube.com/watch?v=apC_BHBoR6E&t=37s)
 - [PREDICTION MODELS](https://www.linkedin.com/pulse/modelos-de-predicci%C3%B3n-katherine-hernandez/)
 - [WHAT IS DOCKER](https://www.linkedin.com/pulse/qu%C3%A9-es-docker-y-para-que-sirve-katherine-hernandez/)
 - [COMPONENTS OF DATA SCIENCE PROJECT](https://www.linkedin.com/pulse/componentes-para-un-proyecto-de-ciencia-datos-katherine-hernandez/)
