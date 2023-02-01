@@ -1,7 +1,7 @@
 
 # Hi, I’m Katherine Hernandez 👋
 
-👀 I'm a Machine Learning Engineer who loves working Remotely with distributed teams.
+👀 I love working Remotely with distributed teams.
 
 🥰 I like developing models for data mining, forecasting, [natural language processing](https://github.com/kathyhernndez/portfolio_say_my_brand/tree/main/chat_bot) and [computer vision](https://kathyhernndez.github.io/imageclassifier/).
 
