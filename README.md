@@ -20,7 +20,7 @@
 
 # Follow Me in 💌
 
-- [Portfolio](https://kathyhernndez.github.io/kathyportfolio/)
+- [Portfolio](https://kathyhernndez.github.io/portafolio/)
 - [LinkedIn](https://www.linkedin.com/in/katherine-hernandez-1b5301190/)
 - [Twitter](https://twitter.com/kathyhernndz)
 - [Instagram](https://www.instagram.com/kathyhernndez/)
