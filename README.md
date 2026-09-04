@@ -22,7 +22,7 @@ tech_stack = {
     "backend_db": ["Django", "FastAPI", "Flask", "PostgreSQL", "MySQL"],
     "data_ai": ["Pandas", "NumPy", "Scikit-Learn", "Streamlit", "YOLO"],
     "devops_tools": ["Docker", "Git", "GitHub Actions", "Linux"]
-}
+}```
 
 ---
 
