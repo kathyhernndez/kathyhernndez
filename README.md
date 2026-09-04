@@ -12,8 +12,6 @@
 - 🌍 **Research & Next Steps:** Exploring spatial data analysis and AI applied to GIS and environmental modeling.
 - 🌐 **Work Style:** Fully asynchronous, remote-first, collaborating with distributed teams.
 
----
-
 ### 🛠️ Tech Stack & Tooling
 
 ```python
@@ -22,13 +20,13 @@ tech_stack = {
     "backend_db": ["Django", "FastAPI", "Flask", "PostgreSQL", "MySQL"],
     "data_ai": ["Pandas", "NumPy", "Scikit-Learn", "Streamlit", "YOLO"],
     "devops_tools": ["Docker", "Git", "GitHub Actions", "Linux"]
-}```
-
+}
+```
 ---
 
 ![Machine Learnening](https://github.com/kathyhernndez/kathyhernndez/blob/main/machine%20learnig%20%2C%20Python%20%26%20data%20engineer.png)
 
-
+---
 # Latest articles published 👩‍💻
 
 - [INTRODUCTION TO ARTIFICIAL INTELLIGENCE](https://www.youtube.com/watch?v=apC_BHBoR6E&t=37s)
@@ -36,6 +34,7 @@ tech_stack = {
 - [WHAT IS DOCKER](https://www.linkedin.com/pulse/qu%C3%A9-es-docker-y-para-que-sirve-katherine-hernandez/)
 - [COMPONENTS OF DATA SCIENCE PROJECT](https://www.linkedin.com/pulse/componentes-para-un-proyecto-de-ciencia-datos-katherine-hernandez/)
 
+---
 # Follow Me in 💌
 
 - [Portfolio](https://kathyhernndez.github.io/portafolio/)
@@ -45,6 +44,7 @@ tech_stack = {
 - [Youtube](https://www.youtube.com/channel/UCytH2H61XhEaaFPDUDeONhA)
 - [Mail](mailto:kathernandz97@gmail.com)
 
+---
 ## Thansk for visit my Github 🥰
 
 <!---
