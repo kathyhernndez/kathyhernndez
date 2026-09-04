@@ -24,6 +24,7 @@ tech_stack = {
     "devops_tools": ["Docker", "Git", "GitHub Actions", "Linux"]
 }
 
+---
 
 ![Machine Learnening](https://github.com/kathyhernndez/kathyhernndez/blob/main/machine%20learnig%20%2C%20Python%20%26%20data%20engineer.png)
 
