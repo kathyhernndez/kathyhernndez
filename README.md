@@ -1,11 +1,28 @@
+# Hi, I’m Katherine Hernández 👋 
+### Software Engineer | Python, Backend Architecture & Applied AI
 
-# Hi, I’m Katherine Hernandez 👋
+> *"Building technology to solve real-world problems, staying deeply human."*
 
-👀 I love working Remotely with distributed teams.
+---
 
-🥰 I like developing models for data mining, forecasting, [natural language processing](https://github.com/kathyhernndez/portfolio_say_my_brand/tree/main/chat_bot) and [computer vision](https://kathyhernndez.github.io/imageclassifier/).
+### 🚀 About Me
+- 🔭 **Focus:** Designing resilient backend systems, relational data architectures, and applied AI integration pipelines.
+- 💻 **Core Backend:** Python (Django, FastAPI), RESTful APIs, PostgreSQL, Docker, and Git.
+- 🤖 **Data & AI:** Machine Learning, Time-Series Forecasting, Computer Vision (YOLO/Roboflow), and Streamlit prototyping.
+- 🌍 **Research & Next Steps:** Exploring spatial data analysis and AI applied to GIS and environmental modeling.
+- 🌐 **Work Style:** Fully asynchronous, remote-first, collaborating with distributed teams.
 
-🌱 I work with Python, TensorFlow, Pytorch, Pandas, Numpy, ScikitLearn, Seaborn...
+---
+
+### 🛠️ Tech Stack & Tooling
+
+```python
+tech_stack = {
+    "languages": ["Python", "SQL", "JavaScript"],
+    "backend_db": ["Django", "FastAPI", "Flask", "PostgreSQL", "MySQL"],
+    "data_ai": ["Pandas", "NumPy", "Scikit-Learn", "Streamlit", "YOLO"],
+    "devops_tools": ["Docker", "Git", "GitHub Actions", "Linux"]
+}
 
 
 ![Machine Learnening](https://github.com/kathyhernndez/kathyhernndez/blob/main/machine%20learnig%20%2C%20Python%20%26%20data%20engineer.png)
