@@ -41,7 +41,7 @@ Thank you for visiting my GitHub! Let's build something impactful.
 - [Portfolio](https://kathyhernndez.github.io/portafolio/)
 - [LinkedIn](https://www.linkedin.com/in/katherine-hernandez-1b5301190/)
 - [Twitter](https://twitter.com/kathyhernndz)
-- [Instagram](https://www.instagram.com/kathyhernndez/)
+- [Instagram](https://www.instagram.com/codewithkath)
 - [Youtube](https://www.youtube.com/channel/UCytH2H61XhEaaFPDUDeONhA)
 - [Mail](mailto:kathernandz97@gmail.com)
 - [Tiktok](https://www.tiktok.com/@codewithkath)
